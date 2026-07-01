@@ -2,7 +2,7 @@
 
 Backend engineer focused on Kotlin/Java, Spring, APIs, search/content systems, and reliable production services.
 
-I have worked on healthcare marketplace backend services at Healingpaper/Gangnam Unni and content/search + learning-platform systems at Riiid.
+I have worked on healthcare marketplace backend services at Healingpaper/Gangnam Unni and content/search + learning-platform systems at Riiid. Most production work is in company or organization repositories; this profile keeps only a few public code samples visible.
 
 ## Focus
 
@@ -12,11 +12,9 @@ I have worked on healthcare marketplace backend services at Healingpaper/Gangnam
 - Search/content workflows and platform services
 - Debugging, maintainability, documentation, and code review
 
-## Public repositories to look at
+## Public code samples
 
-- [stock-backtesting](https://github.com/jaykang-heo/stock-backtesting) — Kotlin/Spring/gRPC backend example
-- [spring-grpc-starter](https://github.com/jaykang-heo/spring-grpc-starter) — Kotlin/Spring gRPC starter
-- [hhplus-tdd-jvm](https://github.com/jaykang-heo/hhplus-tdd-jvm) — Kotlin/TDD practice
-- [django-web](https://github.com/jaykang-heo/django-web) — Python/Django earlier full-stack work
+- [spring-grpc-starter](https://github.com/jaykang-heo/spring-grpc-starter) — minimal Kotlin/Spring starter for gRPC services
+- [stock-backtesting](https://github.com/jaykang-heo/stock-backtesting) — Kotlin/Spring gRPC backend sample for backtesting workflows
 
 LinkedIn: https://www.linkedin.com/in/jaykang-heo-3b7547172/
