@@ -1,21 +1,19 @@
 # Jaykang Heo
 
-Backend engineer focused on production APIs, domain logic, search/content workflows, and reliable backend systems.
+Backend Engineer. Seoul.
 
-- Currently working on backend services at **Healingpaper / Gangnam Unni**
-- Previously worked on content/search and learning-platform services at **Riiid**
-- Based in Seoul, South Korea
+I build production backend systems for healthcare marketplace and education products. Currently at **Healingpaper / Gangnam Unni**. Previously at **Riiid**.
 
-## Focus areas
+## Work
 
-- Kotlin / Java / Spring backend services
-- API design, domain modeling, and data-backed workflows
-- PostgreSQL, Redis, OpenSearch, gRPC, and S3
-- Debugging, refactoring, maintainability, documentation, and code review
+- **Healingpaper / Gangnam Unni** — backend services for a healthcare marketplace: APIs, domain logic, data workflows, reliability, debugging, refactoring, testing, and cross-functional product work.
+- **Riiid** — content/search and learning-platform backend services for Santa TOEIC and related education products, including service integration, scalability improvements, and global rollout work.
 
-Most meaningful production work is in company or organization repositories, so this profile intentionally avoids presenting old practice repositories as portfolio work.
+## Focus
+
+Kotlin, Java, Spring, PostgreSQL, Redis, OpenSearch, gRPC, REST APIs, S3, debugging, code review, and technical documentation.
 
 ## Links
 
-- Professional homepage: https://jaykang-heo.github.io
+- Homepage: https://jaykang-heo.github.io
 - LinkedIn: https://www.linkedin.com/in/jaykang-heo-3b7547172/
